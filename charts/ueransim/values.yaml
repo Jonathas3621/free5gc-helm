@@ -63,9 +63,9 @@ gnb:
     protocol: UDP
 
   n2if:  # NGAP
-    ipAddress: 10.100.50.250
+    ipAddress: 10.100.50.251
   n3if:  # GTP-U
-    ipAddress: 10.100.50.236
+    ipAddress: 10.100.50.234
 
   amf:
     n2if:  # NGAP
